@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iventanta.github.io/sitemap.html.gz
+Sitemap: https://iventanta.github.io/app/sitemap.html.gz
+Sitemap: https://iventanta.github.io/assets/sitemap.html.gz
+Sitemap: https://iventanta.github.io/css/sitemap.html.gz
+Sitemap: https://iventanta.github.io/includes/sitemap.html.gz
+Sitemap: https://iventanta.github.io/item/sitemap.html.gz
+Sitemap: https://iventanta.github.io/src/sitemap.html.gz
